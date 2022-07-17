@@ -1,4 +1,4 @@
-# Data Science with Python/Project 7
+# Data Science with Python: Project 7
 
 ### Feature Engineering
 
@@ -8,5 +8,4 @@ While searching for the dream house, the buyer looks at various factors, not jus
 Using the dataset, find the factors that influence price negotiations while buying a house.
 There are 79 explanatory variables describing every aspect of residential homes in Ames, Iowa.
 
-To download the complete document click here. 
-To download the dataset click here.
+All the best!!
