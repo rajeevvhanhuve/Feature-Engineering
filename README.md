@@ -1,6 +1,4 @@
-# Data Science with Python: Project 7
-
-### Feature Engineering
+## Feature Engineering
 
 DESCRIPTION
 
